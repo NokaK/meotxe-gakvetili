@@ -18,7 +18,7 @@ body{
 }
 .navbar-a{
 	font-size: 22px;
-	color:#3D58A6;
+	color:#3D58A6
 	font-weight: bold;
 }
 .navbar-a span{
@@ -60,4 +60,27 @@ article{
 }
 .article-text{
 	margin-bottom: 30px;
+}
+.icon-img{
+	height: 200px;
+}
+.wrapper-box{
+	background-color: #F2F2F2;
+	margin-top: 30px;
+	padding: 10px 15px 40px 40px;
+}
+.title-h5{
+	margin-bottom: 15px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.icon-img{
+	display: inline-block;
+	vertical-align: middle;
+}
+.wrapper-text{
+	display: inline-block;
+	width: 800px;
+	vertical-align: middle;
+	margin-left: 50px;
 }
